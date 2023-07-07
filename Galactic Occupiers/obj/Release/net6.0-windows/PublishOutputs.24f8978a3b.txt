@@ -1,5 +1,0 @@
-C:\Users\Pc.DESKTOP-U953URB\Desktop\Galactic Occupiers\GalacticOccupiers\bin\Release\net6.0-windows\publish\GalacticOccupiers.exe
-C:\Users\Pc.DESKTOP-U953URB\Desktop\Galactic Occupiers\GalacticOccupiers\bin\Release\net6.0-windows\publish\GalacticOccupiers.dll
-C:\Users\Pc.DESKTOP-U953URB\Desktop\Galactic Occupiers\GalacticOccupiers\bin\Release\net6.0-windows\publish\GalacticOccupiers.deps.json
-C:\Users\Pc.DESKTOP-U953URB\Desktop\Galactic Occupiers\GalacticOccupiers\bin\Release\net6.0-windows\publish\GalacticOccupiers.runtimeconfig.json
-C:\Users\Pc.DESKTOP-U953URB\Desktop\Galactic Occupiers\GalacticOccupiers\bin\Release\net6.0-windows\publish\GalacticOccupiers.pdb
